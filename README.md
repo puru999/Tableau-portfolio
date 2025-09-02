@@ -1,14 +1,14 @@
-# 📊 Tableau Portfolio – Purushottam Phuyal
+# Tableau Portfolio – Purushottam Phuyal
 
 Welcome to my Tableau Portfolio!  
 This repository highlights my work in **data visualization, storytelling, and analytics** using Tableau.  
 Each dashboard is available as an **interactive version on Tableau Public** and also shown here with a preview image.  
 
-🔗 **View Full Interactive Portfolio:** [My Tableau Public Profile](https://public.tableau.com/app/profile/purushottam.phuyal/vizzes)  
+ **View Full Interactive Portfolio:** [My Tableau Public Profile](https://public.tableau.com/app/profile/purushottam.phuyal/vizzes)  
 
----
 
-## 📂 Projects (Preview Images)
+
+##  Projects (Preview Images)
 
 ### Sales Overview Dashboard
 ![Sales Overview Dashboard](Sales%20Overview%20Dashboard.png)
@@ -37,10 +37,10 @@ Each dashboard is available as an **interactive version on Tableau Public** and 
 ---
 
 ## ⚡ About Me
-- 🎓 MSc Data Science (2023-2025)  
-- 💼 Experienced in **Amazon Customer Return Processing , Data Analytics, and Process Optimization,Finance Analysit**  
+-  MSc Data Science (2024-2025)  
+- Experienced in **Amazon Customer Return Processing , Data Analytics, and Process Optimization,Finance Analysit**  
 - 🔧 Skilled in Tableau, Python, SQL, Excel,and Data Visualization  
-- 🌐 Connect with me:  
+  - Connect with me:  
   - [LinkedIn](https://www.linkedin.com/in/puru1010/)  
   - [GitHub](https://github.com/puru999)  
   - 📧 phuyalpuru@gmail.com  
